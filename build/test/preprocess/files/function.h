@@ -1,7 +1,0 @@
-
-
-
-
-
-
-void printFunc(int a);

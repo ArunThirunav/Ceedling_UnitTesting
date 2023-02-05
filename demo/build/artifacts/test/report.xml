@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<TestRun>
+	<FailedTests>
+		<Test id="1">
+			<Name>test/test_main.c::test_main_NeedToImplement</Name>
+			<FailureType>Assertion</FailureType>
+			<Location>
+				<File>test/test_main.c</File>
+				<Line>17</Line>
+			</Location>
+			<Message>Function printFunc.  Called fewer times than expected.</Message>
+		</Test>
+	</FailedTests>
+	<SuccessfulTests/>
+	<IgnoredTests/>
+	<Statistics>
+		<Tests>1</Tests>
+		<Ignores>0</Ignores>
+		<FailuresTotal>1</FailuresTotal>
+		<Errors>0</Errors>
+		<Failures>1</Failures>
+	</Statistics>
+</TestRun>

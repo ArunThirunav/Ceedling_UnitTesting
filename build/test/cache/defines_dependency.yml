@@ -1,7 +1,0 @@
----
-src/function.c:
-- TEST
-src/main.c:
-- TEST
-build/test/mocks/mock_function.c:
-- TEST

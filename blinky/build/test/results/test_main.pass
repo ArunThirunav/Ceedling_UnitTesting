@@ -1,0 +1,30 @@
+---
+:source:
+  :path: test
+  :file: test_main.c
+:successes:
+- :test: test_AppMain_should_call_configure
+  :line: 11
+  :message: ''
+  :unity_test_time: 0
+- :test: test_AppMain_should_call_configure_and_BlinkTask
+  :line: 23
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ISR_should_increment_tick
+  :line: 36
+  :message: ''
+  :unity_test_time: 0
+- :test: test_ISR_should_set_blinkReady_increment_tick
+  :line: 48
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 4
+  :passed: 4
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0025458260206505656

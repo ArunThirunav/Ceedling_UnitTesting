@@ -1,0 +1,2 @@
+---
+- test/support/stub_io.h

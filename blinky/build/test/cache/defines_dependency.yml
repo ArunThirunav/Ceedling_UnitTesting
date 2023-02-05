@@ -1,0 +1,19 @@
+---
+build/test/mocks/mock_Configure.c:
+- TEST
+- UNITY_OUTPUT_COLOR
+build/test/mocks/mock_BlinkTask.c:
+- TEST
+- UNITY_OUTPUT_COLOR
+src/main.c:
+- TEST
+- UNITY_OUTPUT_COLOR
+src/BlinkTask.c:
+- TEST
+- UNITY_OUTPUT_COLOR
+build/test/mocks/mock_stub_interrupt.c:
+- TEST
+- UNITY_OUTPUT_COLOR
+src/Configure.c:
+- TEST
+- UNITY_OUTPUT_COLOR
